@@ -1,3 +1,3 @@
 from hello import greeting
 
-print(greeting("no"))
+print(greeting("vim edit"))
